@@ -1,0 +1,12 @@
+# Windows
+# Create the environment
+python -m venv venv
+# Activate the environment
+.\venv\scripts\activate
+.\venv\scripts\activate.bat
+
+# macOS or Linux
+# Create the environment
+python -m venv venv
+# Activate the environment
+source ./venv/bin/activate

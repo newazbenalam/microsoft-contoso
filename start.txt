@@ -1,0 +1,8 @@
+# Windows
+set FLASK_ENV=development
+
+# Linux/macOS
+export FLASK_ENV=development
+
+# Start the server
+flask run
